@@ -1,1 +1,2 @@
 # Azure-Artifacts
+Arm templates
